@@ -1,0 +1,15 @@
+.btn {
+  display: block;
+  padding: 5px 10px;
+  margin: 5px 10px;
+  background-color: brown;
+  border: none;
+}
+
+.btn:hover {
+  opacity: 0.7;
+}
+
+.btn-submit {
+  background-color: orange;
+}
